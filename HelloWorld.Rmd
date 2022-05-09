@@ -1,0 +1,9 @@
+---
+title: "HelloWorld"
+author: "Risha Sringa Changmai"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+## This is a markdown file
+# created by Risha S Changmai
